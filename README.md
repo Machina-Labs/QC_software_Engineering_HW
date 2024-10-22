@@ -1,4 +1,4 @@
-# Software Quality Control Engineer Homework Assignment
+# Robotics QA Engineer Homework Assignment
 ## Objective:
 You are tasked with ensuring the quality of a robotic arm control system that performs pick-and-place operations on a conveyor belt. The system uses the following key technologies:
 
